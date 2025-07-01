@@ -23,7 +23,7 @@
 > An Ethereum-based decentralized escrow system integrated with Chainlink Price Feeds.
 
 - 🛡️ Secure delivery & refund mechanism
-- 🔗 [View Code](https://github.com/YOUR_USERNAME/escrow-dapp)
+- 🔗 [View Code](https://github.com/Manzoorblockchaindev/EscrowProject)
 - 🌍 Deployed on Sepolia Testnet
 - 🎥 Demo coming soon!
 
@@ -38,5 +38,6 @@
 ---
 
 ### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manzoor-ahmed-a68391372/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Manzoordev)
+
