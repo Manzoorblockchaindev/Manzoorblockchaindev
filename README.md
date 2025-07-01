@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Manzoor</h1>
+<h3 align="center">🚀 Solidity Developer | Web3 Enthusiast | Smart Contract Engineer</h3>
 
-<!--
-**Manzoorblockchaindev/Manzoorblockchaindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-FF3C41?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- 💻 Solidity, Foundry,Chainlink, MetaMask
+- 🧰 JavaScript, React.js
+- 🌐 Alchemy
+
+---
+
+### 📌 Featured Project
+
+#### 🧾 Escrow Smart Contract dApp
+> An Ethereum-based decentralized escrow system integrated with Chainlink Price Feeds.
+
+- 🛡️ Secure delivery & refund mechanism
+- 🔗 [View Code](https://github.com/YOUR_USERNAME/escrow-dapp)
+- 🌍 Deployed on Sepolia Testnet
+- 🎥 Demo coming soon!
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
